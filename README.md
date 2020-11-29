@@ -1,2 +1,2 @@
 # vahida
- Practice of fundamentals of web
+Practice of web development fundamentals to totally experience in a new way
